@@ -1,0 +1,15 @@
+wi\kafka\sink\MySinkConnector.class
+wi\kafka\sink\avro\User$Builder.class
+wi\kafka\sink\jsonschema\Info.class
+wi\kafka\sink\StringMapper$1.class
+wi\kafka\sink\User$Builder.class
+wi\kafka\sink\StringMapper.class
+wi\kafka\sink\jsonschema\Personal.class
+wi\kafka\sink\User.class
+wi\kafka\sink\avro\User.class
+wi\kafka\sink\User$1.class
+wi\kafka\sink\MyIndividualSinkTask.class
+wi\kafka\sink\MappingProperties.class
+wi\kafka\sink\jsonschema\Fullname.class
+wi\kafka\sink\avro\User$1.class
+wi\kafka\sink\Person.class

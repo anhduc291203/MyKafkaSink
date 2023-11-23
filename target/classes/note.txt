@@ -1,0 +1,12 @@
+1 : wellid
+2 : wellname
+3 : aliases
+4 : organisation
+5 : data
+
+map :
+    wellid = well.id + '-' + well.well_name
+    wellname = well.name
+    aliases = [well.name]
+    organisation = well.company
+    data = aliases + organisation
